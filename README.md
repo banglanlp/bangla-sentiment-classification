@@ -15,7 +15,7 @@ In the following directories we have data splits (train/dev/test) for different 
 **Note:** Due to the license limitation we are not able to release CogniSenti Dataset.
 
 ### Lexical Analysis
-For the lexical analysis, we computed valance score for each dataset. In *lexical_analysis/* directory, we provided such analysis.
+For the lexical analysis, we computed valance score for each dataset. In *lexical_analysis/* directory, we provided such analyses.
 
 
 ## Licensing
