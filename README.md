@@ -26,14 +26,21 @@ However, for the respective data source please check the licence in the correspo
 
 ## Please cite the following papers if you are using the data:
 
-1. Md. Arid Hasan and Jannatul Tajrin and Shammur Absar Chowdhury and Firoj Alam, Sentiment Classification in Bangla Textual Content: A Comparative Study, 23rd International Conference on Computer and Information Technology (ICCIT), 2020.
-2. B. G. Patra, D. Das, A. Das, and R. Prasath, “Shared task on sentiment analysis in indian languages (sail) tweets­an overview,” in Proc. of
+1. Alam, F., Hasan, M. A., Alam, T., Khan, A., Tajrin, J., Khan, N., & Chowdhury, S. A. (2021). A Review of Bangla Natural Language Processing Tasks and the Utility of Transformer Models. arXiv preprint arXiv:2107.03844.
+2. Md. Arid Hasan and Jannatul Tajrin and Shammur Absar Chowdhury and Firoj Alam, Sentiment Classification in Bangla Textual Content: A Comparative Study, 23rd International Conference on Computer and Information Technology (ICCIT), 2020.
+3. B. G. Patra, D. Das, A. Das, and R. Prasath, “Shared task on sentiment analysis in indian languages (sail) tweets­an overview,” in Proc. of
 MIKE. Springer, 2015, pp. 650–655.
-3. M. Rahman, E. Kumar Dey et al., “Datasets for aspect­based sentiment analysis in bangla and its baseline evaluation,” Data, vol. 3, no. 2, p. 15, 2018.
-4. N. I. Tripto and M. E. Ali, “Detecting multilabel sentiment and emotions from bangla youtube comments,” in Proc. of ICBSLP. IEEE, 2018, pp. 1–6.
-5. M. Rezaul Karim, B. Raja Chakravarthi, M. Arcan, J. P. McCrae, and M. Cochez, “Classification benchmarks for under­resourced Bengali language based on multichannel convolutional­lstm network,” arXiv, pp. arXiv–2004, 2020.
+4. M. Rahman, E. Kumar Dey et al., “Datasets for aspect­based sentiment analysis in bangla and its baseline evaluation,” Data, vol. 3, no. 2, p. 15, 2018.
+5. N. I. Tripto and M. E. Ali, “Detecting multilabel sentiment and emotions from bangla youtube comments,” in Proc. of ICBSLP. IEEE, 2018, pp. 1–6.
+6. M. Rezaul Karim, B. Raja Chakravarthi, M. Arcan, J. P. McCrae, and M. Cochez, “Classification benchmarks for under­resourced Bengali language based on multichannel convolutional­lstm network,” arXiv, pp. arXiv–2004, 2020.
 
 ```bib
+@article{alam2021review,
+  title={A Review of Bangla Natural Language Processing Tasks and the Utility of Transformer Models},
+  author={Alam, Firoj and Hasan, Md Arid and Alam, Tanvir and Khan, Akib and Tajrin, Janntatul and Khan, Naira and Chowdhury, Shammur Absar},
+  journal={arXiv preprint arXiv:2107.03844},
+  year={2021}
+}
 @inproceedings{iccit2020Arid,
 	Author = {Md. Arid Hasan and Jannatul Tajrin and Shammur Absar Chowdhury and Firoj Alam},
 	Booktitle = {23rd International Conference on Computer and Information Technology (ICCIT)},
